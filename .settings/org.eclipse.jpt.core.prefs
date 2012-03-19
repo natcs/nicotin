@@ -1,0 +1,5 @@
+#Mon Jan 30 17:24:23 ICT 2012
+eclipse.preferences.version=1
+org.eclipse.jpt.core.platform=eclipselink2_3
+org.eclipse.jpt.jpa.core.discoverAnnotatedClasses=false
+workspace_preferences_overriden=true
